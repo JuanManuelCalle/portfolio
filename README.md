@@ -17,8 +17,7 @@ En mi portafolio, encontrarás las siguientes secciones:
 
 ## Capturas de Pantalla
 
-![Captura de Pantalla 1](/capturas/captura1.png)
-![Captura de Pantalla 2](/capturas/captura2.png)
+![Captura de Pantalla 1](https://raw.githubusercontent.com/JuanManuelCalle/portfolio/main/public/rocketLogo.jpg)
 
 ## Cómo Ejecutar
 
